@@ -1,16 +1,23 @@
-### Hi there 👋
+**Hi there** 👋🏻
 
-<!--
-**TDFS-Dom/TDFS-Dom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm passionate about: Apple, Inc.
+## About Me 😁
+* 📱 iOS Developer/Technical Leader/Project Management/CTO/CEO
 
-Here are some ideas to get you started:
+* ✨ UI / UX Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📖 Open-Source Contributor
+
+* 💻 One line of code at a time
+
+* ♥️ Exploring new places
+
+* ✍🏻 I write blogs on iOS development in [Medium](https://medium.com/@toduforsharing)
+
+* 💁🏻I share my Insights, Tricks, and Tips on iOS development on my Instagram.
+
+
+
+## Reach me via 👇🏻
+
+[![Linkedin](https://www.flaticon.com/svg/static/icons/svg/174/174857.svg)](https://www.linkedin.com/in/forsharing-domnguyen/)
