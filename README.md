@@ -14,8 +14,7 @@
 
 * ✍🏻 I write blogs on iOS development in [Medium](https://medium.com/@toduforsharing)
 
-* 💁🏻I share my Insights, Tricks, and Tips on iOS development on my Instagram.
-
+* 💁🏻I share my Insights, Tricks, and Tips on each technology on my [Facebook](https://www.facebook.com/YOUTUBEwithTDFS).
 
 
 ## Reach me via 👇🏻
