@@ -2,7 +2,7 @@
 
 # I'm passionate about: Apple, Inc.
 ## About Me 😁
-* 📱 iOS Developer/Technical Leader/Project Management/CTO/CEO
+* 📱 iOS Developer/Web Developer/Technical Leader/Project Management/CTO/CEO
 
 * ✨ UI / UX Enthusiast
 
@@ -19,5 +19,5 @@
 
 
 ## Reach me via 👇🏻
-
-[![Linkedin](https://www.flaticon.com/svg/static/icons/svg/174/174857.svg)](https://www.linkedin.com/in/forsharing-domnguyen/)
+ 
+ [Linkedin](https://www.linkedin.com/in/forsharing-domnguyen/)
