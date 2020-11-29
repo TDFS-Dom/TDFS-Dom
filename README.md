@@ -16,8 +16,8 @@
 
 * 💁🏻I share my Insights, Tricks, and Tips on each technology on my [Facebook](https://www.facebook.com/YOUTUBEwithTDFS).
 
+* ♥️ My [Linkedin](https://www.linkedin.com/in/forsharing-domnguyen/)
 
 ## Reach me via 👇🏻
  
- [Linkedin](https://www.linkedin.com/in/forsharing-domnguyen/)
 [![TDFS-Dom's github stats](https://github-readme-stats.vercel.app/api?username=TDFS-Dom)](https://github.com/TDFS-Dom)
