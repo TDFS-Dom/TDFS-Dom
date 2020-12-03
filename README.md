@@ -21,3 +21,5 @@
 ## Reach me via 👇🏻
  
 [![TDFS-Dom's github stats](https://github-readme-stats.vercel.app/api?username=TDFS-Dom)](https://github.com/TDFS-Dom)
+
+[![TDFS-Dom's github most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TDFS-Dom)](https://github.com/TDFS-Dom)
