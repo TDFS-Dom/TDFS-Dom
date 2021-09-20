@@ -2,7 +2,7 @@
 
 # I'm passionate about: Apple, Inc.
 ## About Me 😁
-* 📱 iOS Developer/Web Developer/Technical Leader/Project Management/CTO/CEO
+* 📱 iOS Developer/Web Developer/Technical Leader/Project Manager/CTO/CEO
 
 * ✨ UI / UX Enthusiast
 
